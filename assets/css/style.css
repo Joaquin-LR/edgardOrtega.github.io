@@ -2,3 +2,25 @@
 .logo{
   height: 3rem;
 }
+
+
+#section-1 {
+  background-color: rgba(55, 162, 233, 0.623);
+}
+
+.acerca-de-mi:hover {
+  transform: scale(1.1);
+}
+
+
+footer {
+  background-color: rgba(0, 255, 255, 0.315);
+}
+
+footer h6 {
+  text-align: center;
+}
+
+.social-icons {
+  text-align: center;
+}
