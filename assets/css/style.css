@@ -12,6 +12,11 @@
   transform: scale(1.1);
 }
 
+.cv {
+  background-color: rgba(93, 190, 158, 0.733);
+  padding-top: 20px;
+  padding-bottom: 30px;
+}
 
 footer {
   background-color: rgba(0, 255, 255, 0.315);
